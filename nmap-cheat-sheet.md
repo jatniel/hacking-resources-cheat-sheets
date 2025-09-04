@@ -218,11 +218,6 @@ nmap --randomize-hosts [Target IP Address/Range of IP addresses]
 nmap --badsum [Target IP Address/Range of IP addresses]
 ```
 
-#### Send the packets with bad or bogus TCP/UPD checksums
-```sh
-nmap --badsum [Target IP Address/Range of IP addresses]
-```
-
 ### Scanning for vulneabilities
 
 #### Identify the IPv6 capabilities of a device
